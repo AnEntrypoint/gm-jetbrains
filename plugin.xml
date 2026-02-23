@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <idea-plugin url="https://github.com/AnEntrypoint/gm-jetbrains">
   <id>com.gm.intellij</id>
-  <name>Glootie - GM State Machine</name>
+  <name>GM - GM State Machine</name>
   <version>2.0.5</version>
-  <vendor email="gm@anthropic.ai" url="https://github.com/AnEntrypoint">Glootie</vendor>
+  <vendor email="gm@anthropic.ai" url="https://github.com/AnEntrypoint">GM</vendor>
   <description>Advanced Claude Code plugin with WFGY integration, MCP tools, and automated hooks</description>
   <category>AI</category>
   <change-notes>

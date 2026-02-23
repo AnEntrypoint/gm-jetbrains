@@ -1,4 +1,4 @@
-# Glootie for JetBrains IDEs
+# GM for JetBrains IDEs
 
 AI state machine plugin for all JetBrains IDEs with semantic code search.
 
@@ -17,7 +17,7 @@ AI state machine plugin for all JetBrains IDEs with semantic code search.
 From Plugin Marketplace:
 1. Open IDE
 2. Settings → Plugins → Marketplace
-3. Search "Glootie"
+3. Search "GM"
 4. Install and restart
 
 ## Features
@@ -50,14 +50,14 @@ Your IDE uses **semantic code search** - describe what you're looking for in pla
 
 ## Quick Start
 
-1. Tools → Glootie → Activate
+1. Tools → GM → Activate
 2. Ctrl+Alt+Shift+G (Show State)
-3. Right-click → Glootie → Analyze
+3. Right-click → GM → Analyze
 4. Use semantic code search: type "Find [what you're looking for]" in queries
 
 ## Configuration
 
-Settings → Tools → Glootie
+Settings → Tools → GM
 
 ## License
 

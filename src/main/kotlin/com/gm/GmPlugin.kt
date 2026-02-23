@@ -4,7 +4,7 @@ import com.intellij.openapi.components.Service
 import com.intellij.openapi.project.Project
 
 @Service(Service.Level.PROJECT)
-class GlootieService(val project: Project) {
+class GMService(val project: Project) {
   var isActive = false
   var state = mutableMapOf<String, Any>()
 
@@ -24,7 +24,7 @@ class GlootieService(val project: Project) {
 }
 
 @Service(Service.Level.APP)
-class GlootieApplicationService {
+class GMApplicationService {
   var settings = mutableMapOf(
     "enabled" to true,
     "autoActivate" to true,

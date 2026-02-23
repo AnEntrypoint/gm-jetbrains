@@ -26,7 +26,7 @@ dependencies {
 }
 
 intellij {
-  pluginName = "Glootie"
+  pluginName = "GM"
   version = "2024.1.0"
   type = "IC"
   updateSinceUntilBuild = false
