@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "com.gm"
-version = "2.0.53"
+version = "2.0.54"
 
 repositories {
   mavenCentral()
